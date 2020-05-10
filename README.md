@@ -1,5 +1,8 @@
 # docker-websites
 
+### fisrt run: 
+docker network create nginx-proxy
+
 ** Original repositories **
 https://github.com/nginx-proxy
 
